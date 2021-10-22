@@ -6,21 +6,11 @@ layout: default
 title: Namai
 ---
 
+# Mokiniai
 
-# Laba diena
-
-## Antras
-
-### Dar mazesnem
-
-- pirmas
-  - submeniu
-    - dar vienas
-- amtras
-- tresias 
+![Mokiniai](/assets/IMG_5436.jpg "Saunuoliai")
 
 [microbit](https://microbit.org)
 
-> Testas
 
-dar veinas `testas` va `toks` 
+
