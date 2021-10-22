@@ -6,11 +6,12 @@ layout: default
 title: Namai
 ---
 
-# Mokiniai
+# zenai,bebrai ir kurmiai
 
-![Mokiniai](/assets/IMG_5436.jpg "Saunuoliai")
-
-[microbit](https://microbit.org)
+![zenai,bebrai ir kurmiai](/assets/IMG_5436.jpg "zenai,bebrai ir kurmiai")
 
 
 
+[Pamoka](/pamoka)
+
+[Mokykla](/mokykla)
