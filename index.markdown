@@ -6,7 +6,7 @@ layout: default
 title: Namai
 ---
 
-# zenai,bebrai ir kurmiai
+## zenai,bebrai ir kurmiai
 
 ![zenai,bebrai ir kurmiai](/assets/IMG_5436.jpg "zenai,bebrai ir kurmiai")
 
