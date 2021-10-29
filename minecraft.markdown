@@ -2,8 +2,5 @@
 layout: page
 title: Minecraft
 permalink: /minecraft/
----
 
-- [acisiusk minecraft](https://www.minecraft.net/en-us/download){:target="_blank"}
-
-
+- [atcisiusk minecraft per visus ismanuosius iringinius](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=en&gl=US){:target="_blank"}
