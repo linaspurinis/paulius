@@ -15,3 +15,5 @@ title: Namai
 [Pamoka](/pamoka)
 
 [Mokykla](/mokykla)
+
+[Mokykla](/mokyklos)
