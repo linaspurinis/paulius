@@ -6,4 +6,3 @@ layout: default
 title: Namai
 ---
 
-## restoranas vyks Stasio Antano Backio gatveje 13-1 butas
