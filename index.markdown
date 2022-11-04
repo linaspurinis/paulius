@@ -6,3 +6,7 @@ layout: default
 title: Namai
 ---
 
+## Gamina dar vaikai!
+## Triuse kaip pasele.
+## Bet i mokykla reikia eiti.
+## Tai dirba savaitgakiaias
