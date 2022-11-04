@@ -10,3 +10,5 @@ title: Namai
 ## Triuse kaip pasele.
 ## Bet i mokykla reikia eiti.
 ## Tai dirba savaitgakiaias
+
+![Test](/assets/IMG_0877.HEIC "Pasnekesys")
