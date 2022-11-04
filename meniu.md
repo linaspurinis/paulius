@@ -8,9 +8,11 @@ permalink: /meniu/
 
 ## Karsti patiekalai
 
-#### Burgeris 
-3$
-Mesa, salotos
+#### Hodogas 
+2$
+Desrele, padazas
+- manjonezas
+- keciupas 
 
 #### Bulvytes free
 1,50$
