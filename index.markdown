@@ -6,12 +6,4 @@ layout: default
 title: Namai
 ---
 
-## zenai,bebrai ir kurmiai
-
-![zenai,bebrai ir kurmiai](/assets/IMG_5436.jpg "zenai,bebrai ir kurmiai")
-
-
-
-[Pamoka](/pamoka)
-
-[Mokykla](/mokykla)
+## restoranas vyks Stasio Antano Backio gatveje 13-1 butas
