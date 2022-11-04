@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "e487a29ffbb78d9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a6f8ce14e73459e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4c59efb3c6207a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meniu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fdd6d1a9c830cf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0356e58c0f1268f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15eb58c1a151f665",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "857fb5000d861ec9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ee6dff7356155fa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43f3330ae8ba3bf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b8dc13073b09f85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1db1df5ddef33c06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "meniu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbf224b9a22503f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "meniu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b902e0098e008a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e368d9782a5e6685",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "meniu.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f4c59efb3c6207a9",
+  "lastOpenFiles": [
+    "meniu.md"
+  ]
+}
