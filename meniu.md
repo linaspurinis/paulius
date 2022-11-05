@@ -6,22 +6,21 @@ permalink: /meniu/
 
 
 
-## Karsti patiekalai
+## Karšti patiekalai
 
 #### Hodogas 
 2$\
-Desrele, padazas
-- manjonezas
-- keciupas 
+Dešrele, padažas
+- Majonezas
+- Kečiupas 
 
 #### Bulvytes free
-1,50$  
-bulves su druska ir aliejumi
+1,50$\
+Bulvės su druska ir aliejumi
 
-## Gerimai
+## Gėrimai
 
 #### Kokteilis
-1,50$
-
-Braskinis
+1,50$\
+Braškinis
 
