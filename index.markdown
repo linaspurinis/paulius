@@ -7,8 +7,15 @@ title: Namai
 ---
 
 ## Gamina dar vaikai!
-## Triuše kaip pasele.
+## Triuše kaip pašele.
 ## Bet i mokykla reikia eiti.
-## Tai dirba tik savaitgaliais
+## Tai dirba tik savaitgaliais.
+
+
+
+
+
+
+
 
 ![Test](/assets/IMG_0877.jpg)
