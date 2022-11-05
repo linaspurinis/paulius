@@ -9,18 +9,22 @@ permalink: /meniu/
 ## Karšti patiekalai
 
 #### Hodogas 
-2$\
+15 lipd.\
 Dešrele, padažas
 - Majonezas
 - Kečiupas 
 
+#### Kiaušinienė 
+5 lipd.\
+Kiaušinis, pupelės
+
 #### Bulvytes free
-1,50$\
+10 lipd.\
 Bulvės su druska ir aliejumi
 
 ## Gėrimai
 
 #### Kokteilis
-1,50$\
+5 lipd.\
 Braškinis
 

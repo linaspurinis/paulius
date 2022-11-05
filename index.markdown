@@ -9,6 +9,6 @@ title: Namai
 ## Gamina dar vaikai!
 ## Triuše kaip pasele.
 ## Bet i mokykla reikia eiti.
-## Tai dirba tik savaitgaliaias
+## Tai dirba tik savaitgaliais
 
-![Test](/assets/IMG_0877.jpg"Pasnekesys")
+![Test](/assets/IMG_0877.jpg)
