@@ -6,16 +6,6 @@ layout: default
 title: Namai
 ---
 
-## Gamina dar vaikai!
-## Triuše kaip pašele.
-## Bet i mokykla reikia eiti.
-## Tai dirba tik savaitgaliais.
+Prezidenturos centrinis puslapis
 
 
-
-
-
-
-
-
-![Test](/assets/IMG_0877.jpg)
