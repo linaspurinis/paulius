@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prezidentura
+title: Prezidentūra
 permalink: /prezidentura-rokas-paulius/
 ---
 
