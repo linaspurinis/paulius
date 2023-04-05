@@ -12,7 +12,7 @@ permalink: /prezidentura-rokas-paulius/
 LR Prezidentūros rūmų kompleksas (žali stogai)
 Lietuvos Respublikos Prezidentūra – LR prezidento rezidencija ir darbo vieta, esanti Vilniaus senamiestyje, prie Vilniaus universiteto, S. Daukanto a. 3.
 
-Prezidentūra yra įsikūrusi XIX a. vėlyvojo klasicizmo stiliaus dviaukščiuose rūmuose. Pritaikant rūmus Prezidento rezidencijai, nuspręsta atkurti istorinį interjerą. Viduje yra klasicizmo epochos stiliaus salės. Baltoji – pagrindinė, kurioje teikiami apdovanojimai, Prezidentas susitinka su visuomene; Mėlynoji skirta prezidento konfidencialiems pokalbiams; Žaliojoje Prezidentas posėdžiauja su vyriausiais patarėjais; taip pat čia – Žemėlapių, Delegacijų, Derybų, Pasitarimų salės.[1]
+Prezidentūra yra įsikūrusi XIX a. vėlyvojo klasicizmo stiliaus dviaukščiuose rūmuose. Pritaikant rūmus Prezidento rezidencijai, nuspręsta atkurti istorinį interjerą. Viduje yra klasicizmo epochos stiliaus salės. Baltoji – pagrindinė, kurioje teikiami apdovanojimai, Prezidentas susitinka su visuomene; Mėlynoji skirta prezidento konfidencialiems pokalbiams; Žaliojoje Prezidentas posėdžiauja su vyriausiais patarėjais; taip pat čia – Žemėlapių, Delegacijų, Derybų, Pasitarimų salės.
 
 Tarpukariu LR prezidentūra buvo Kaune, XIX a. vidurio pastate. Ji vadinama Istorine prezidentūra.
 
@@ -27,6 +27,7 @@ Tarpukariu LR prezidentūra buvo Kaune, XIX a. vidurio pastate. Ji vadinama Isto
 - 1939 m. kai Vilnius grįžo Lietuvai, buvo planuojama, kad čia bus prezidentūra.
 - Sovietmečiu buvo vadinami Karininkų, Menininkų rūmais.
 - 1997 m. į rūmus įsikėlė prezidentūra (1990–1997 m. pastatu naudojosi Prancūzijos ambasada).
-- Prezidentas čia eina savo pareigas ir priima užsienio dignitorius. Rūmų fasadas papuoštas Vyčiu. Kai Prezidentas yra rūmuose, virš Vyčio iškeliama Prezidento vėliava. Rūmai yra vėlyvojo klasicizmo (ampyro) stiliaus.
+
+Prezidentas čia eina savo pareigas ir priima užsienio dignitorius. Rūmų fasadas papuoštas Vyčiu. Kai Prezidentas yra rūmuose, virš Vyčio iškeliama Prezidento vėliava. Rūmai yra vėlyvojo klasicizmo (ampyro) stiliaus.
 
 Prezidentūros rūmų parko ąžuolai – savivaldybės saugomas gamtos paveldo objektas.
