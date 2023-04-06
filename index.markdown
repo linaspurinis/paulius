@@ -8,4 +8,4 @@ title: Namai
 
 ## Prezidenturos centrinis puslapis
 
-Aš rasšau viską apie prezidenturą. Tai inžinerinis darbas mokyklai. Vyks parodos. Mes ištraukeme prezidenturą todel viską ir darom apie prezidenturą. O kiti gavo kitus dalykus. Mes su Roku (Rokas mano klasiokas) darėme ta preidenturą. Jis dare modelį daugiau negu aš todel aš surinkau informaciją apie preidenturą. Musu darbas iškirtinis, nes qr kode sliapiasi puslapis ,o ne wordo lapas.
+Aš rasšau viską apie Prezidentūra. Tai inžinerinis darbas mokyklai. Vyks parodos. Mes ištraukėme Prezidentūra, todėl viską ir darome apie ją. O kiti gavo kitas užduotis. Mes su Roku (klasiokas) darėme apie Prezidentūra. Jis dare modelį, o aš todel aš surinkau informaciją apie preidenturą. Musu darbas iškirtinis, nes po qr kodu sliepiasi puslapis, o ne wordo lapas.
